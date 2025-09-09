@@ -1,2 +1,4 @@
 # HelloCsharp
-this is for class DAT 205  using our hello C sharp with a twist to work as team to improve and share our code
+# Parker Travitz's Repository
+This is for class DAT 205, using our Hello C# with a twist to work as a team to improve and share our code
+Please add your name here if you join my repository from our class
